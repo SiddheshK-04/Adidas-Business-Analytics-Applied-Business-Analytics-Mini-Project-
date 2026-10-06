@@ -1,0 +1,10 @@
+Alternative,Outcome,Probability,Payoff_INR,Expected_Value_Component_INR,Data_Type,Note
+Standard Promotion,High Demand,0.4,500000,200000.0,Synthetic Academic Decision Scenario,Probabilities and payoffs are academic assumptions for decision analysis.
+Standard Promotion,Medium Demand,0.4,300000,120000.0,Synthetic Academic Decision Scenario,Probabilities and payoffs are academic assumptions for decision analysis.
+Standard Promotion,Low Demand,0.2,100000,20000.0,Synthetic Academic Decision Scenario,Probabilities and payoffs are academic assumptions for decision analysis.
+High Discount Promotion,High Demand,0.4,560000,224000.0,Synthetic Academic Decision Scenario,Probabilities and payoffs are academic assumptions for decision analysis.
+High Discount Promotion,Medium Demand,0.4,280000,112000.0,Synthetic Academic Decision Scenario,Probabilities and payoffs are academic assumptions for decision analysis.
+High Discount Promotion,Low Demand,0.2,80000,16000.0,Synthetic Academic Decision Scenario,Probabilities and payoffs are academic assumptions for decision analysis.
+Premium Promotion,High Demand,0.4,470000,188000.0,Synthetic Academic Decision Scenario,Probabilities and payoffs are academic assumptions for decision analysis.
+Premium Promotion,Medium Demand,0.4,320000,128000.0,Synthetic Academic Decision Scenario,Probabilities and payoffs are academic assumptions for decision analysis.
+Premium Promotion,Low Demand,0.2,150000,30000.0,Synthetic Academic Decision Scenario,Probabilities and payoffs are academic assumptions for decision analysis.
